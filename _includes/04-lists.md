@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- option 1
+- option 2
+- oprion 3
